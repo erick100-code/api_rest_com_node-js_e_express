@@ -1,0 +1,24 @@
+{
+  "name": "api_rest_com_node-js_e_express",
+  "version": "1.0.0",
+  "description": "API REST com Node.js e Express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/erick100-code/api_rest_com_node-js_e_express.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/erick100-code/api_rest_com_node-js_e_express/issues"
+  },
+  "homepage": "https://github.com/erick100-code/api_rest_com_node-js_e_express#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
